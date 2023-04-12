@@ -1,0 +1,40 @@
+html {
+  font-size: 10px; /* px signifie 'pixels': la taille de base pour la police est désormais 10 pixels de haut  */
+  font-family: 'Carrois Gothic SC', sans-serif; /* cela devrait être le reste du résultat obtenu à partir de Google fonts */
+}
+h1 {
+  font-size: 80px;
+  text-align: center;
+}
+h2 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 14px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+html {
+  background-color: #2A8947;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #AE7E47;
+  padding: 0 110px 20px 110px;
+  border: 5px solid black;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #2A8947;
+  text-shadow: 3px 3px 1px black;
+}
+img {
+  width: 600px;
+  display: block;
+  margin: auto;
+}
+
